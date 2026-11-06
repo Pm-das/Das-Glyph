@@ -1,0 +1,11 @@
+# Local Wi-Fi credentials
+secrets.h
+
+# Arduino build artifacts
+build/
+*.o
+*.d
+*.elf
+*.hex
+*.bin
+*.map
